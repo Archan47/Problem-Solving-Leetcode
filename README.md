@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2470-removing-stars-from-a-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3931-process-string-with-special-operations-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0874-backspace-string-compare) |
+| [2470-removing-stars-from-a-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3931-process-string-with-special-operations-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Hash Table
@@ -54,5 +56,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2128-reverse-prefix-of-word](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2470-removing-stars-from-a-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
