@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3931-process-string-with-special-operations-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3931-process-string-with-special-operations-i) |
+| [4090-minimum-string-length-after-balanced-removals](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Simulation
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [4090-minimum-string-length-after-balanced-removals](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Greedy
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [4090-minimum-string-length-after-balanced-removals](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4090-minimum-string-length-after-balanced-removals) |
 <!---LeetCode Topics End-->
