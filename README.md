@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [4213-merge-adjacent-equal-elements](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4213-merge-adjacent-equal-elements) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3931-process-string-with-special-operations-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3931-process-string-with-special-operations-i) |
+| [4213-merge-adjacent-equal-elements](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4213-merge-adjacent-equal-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4090-minimum-string-length-after-balanced-removals) |
+| [4213-merge-adjacent-equal-elements](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4213-merge-adjacent-equal-elements) |
 ## Greedy
 |  |
 | ------- |
