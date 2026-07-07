@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1222-remove-covered-intervals](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1222-remove-covered-intervals) |
+## Math
+|  |
+| ------- |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
