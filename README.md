@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1179-game-play-analysis-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1179-game-play-analysis-i) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Two Pointers
 |  |
 | ------- |
