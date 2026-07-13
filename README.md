@@ -116,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
