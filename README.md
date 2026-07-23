@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0735-asteroid-collision) |
 | [1222-remove-covered-intervals](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0874-backspace-string-compare) |
 | [2470-removing-stars-from-a-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0735-asteroid-collision](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
