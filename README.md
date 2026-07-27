@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
