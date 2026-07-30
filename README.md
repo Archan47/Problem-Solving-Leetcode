@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
