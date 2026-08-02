@@ -5,10 +5,10 @@ class Solution:
             if len(s) == 0:
                 stack.append(s[ch])
                 continue
-            if s[ch] == "*":
+            elif s[ch] == "*":
                 stack.pop()
             else:
                 stack.append(s[ch])
         return ''.join(stack)
-        
+
         
