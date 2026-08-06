@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0735-asteroid-collision) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1222-remove-covered-intervals](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0486-predict-the-winner) |
+## Ternary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
