@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0011-container-with-most-water) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
