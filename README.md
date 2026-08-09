@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0486-predict-the-winner) |
 ## Tree
@@ -277,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
