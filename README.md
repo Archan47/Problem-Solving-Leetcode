@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0486-predict-the-winner) |
 ## Design
