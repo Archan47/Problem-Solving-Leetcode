@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0053-maximum-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
