@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0443-string-compression) |
 | [0778-reorganize-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0874-backspace-string-compare) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0874-backspace-string-compare) |
 | [2428-equal-row-and-column-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0486-predict-the-winner) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
