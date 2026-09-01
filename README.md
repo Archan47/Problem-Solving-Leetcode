@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1635-number-of-good-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1635-number-of-good-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0778-reorganize-string) |
+| [1635-number-of-good-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Sorting
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0486-predict-the-winner) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1635-number-of-good-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
