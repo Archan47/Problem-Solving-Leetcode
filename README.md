@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2470-removing-stars-from-a-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3931-process-string-with-special-operations-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3931-process-string-with-special-operations-i) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0778-reorganize-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1212-sequential-digits) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Number Theory
 |  |
 | ------- |
