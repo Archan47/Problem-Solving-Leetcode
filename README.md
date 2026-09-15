@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0506-relative-ranks) |
 | [0778-reorganize-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0778-reorganize-string) |
 ## Quicksort
@@ -419,4 +423,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0075-sort-colors) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
