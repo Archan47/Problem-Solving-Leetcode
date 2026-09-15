@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0475-heaters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0778-reorganize-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0778-reorganize-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0496-next-greater-element-i) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Counting
 |  |
