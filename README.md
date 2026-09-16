@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3034-points-that-intersect-with-cars](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4213-merge-adjacent-equal-elements](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4213-merge-adjacent-equal-elements) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Monotonic Stack
 |  |
 | ------- |
