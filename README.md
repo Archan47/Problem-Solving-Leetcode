@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0724-find-pivot-index) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0778-reorganize-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0778-reorganize-string) |
 | [1635-number-of-good-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -261,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0475-heaters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0778-reorganize-string) |
 | [1222-remove-covered-intervals](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1256-rank-transform-of-an-array) |
