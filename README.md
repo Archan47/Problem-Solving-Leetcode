@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-unique-3-digit-even-numbers](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4213-merge-adjacent-equal-elements](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4213-merge-adjacent-equal-elements) |
 | [4285-smallest-stable-index-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4285-smallest-stable-index-ii) |
+| [4312-limit-occurrences-in-sorted-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4312-limit-occurrences-in-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [4312-limit-occurrences-in-sorted-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4312-limit-occurrences-in-sorted-array) |
 ## Stack
 |  |
 | ------- |
