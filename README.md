@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Database
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0475-heaters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3034-points-that-intersect-with-cars](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
