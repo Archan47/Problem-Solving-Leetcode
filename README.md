@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3034-points-that-intersect-with-cars](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -463,4 +464,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0260-single-number-iii) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
