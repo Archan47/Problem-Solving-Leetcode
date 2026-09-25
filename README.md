@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-minimum-positive-sum-subarray](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4213-merge-adjacent-equal-elements](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4213-merge-adjacent-equal-elements) |
 | [4285-smallest-stable-index-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4285-smallest-stable-index-ii) |
 | [4312-limit-occurrences-in-sorted-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4312-limit-occurrences-in-sorted-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0486-predict-the-winner) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1635-number-of-good-pairs) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
