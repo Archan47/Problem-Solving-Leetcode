@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0263-ugly-number](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0263-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0486-predict-the-winner) |
