@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0778-reorganize-string](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0475-heaters) |
+| [0541-reverse-string-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0541-reverse-string-ii) |
 | [0874-backspace-string-compare](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1894-merge-strings-alternately) |
