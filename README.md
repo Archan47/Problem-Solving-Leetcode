@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1212-sequential-digits](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1212-sequential-digits) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
