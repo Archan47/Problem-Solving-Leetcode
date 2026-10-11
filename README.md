@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0874-backspace-string-compare](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0486-predict-the-winner) |
+| [0633-sum-of-square-numbers](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0475-heaters) |
+| [0633-sum-of-square-numbers](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
