@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-determine-if-two-events-have-conflict](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3034-points-that-intersect-with-cars](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sliding Window
@@ -514,4 +516,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/0014-longest-common-prefix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Archan47/Problem-Solving-Leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
